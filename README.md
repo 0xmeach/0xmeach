@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dimitri
-- 👀 I’m interested in biotech, BCI, and all things tech/science.
-- 🌱 I’m currently learning SQL and python.
+- 👀 I’m interested in biotech, BCI, blockchains and all things tech/science.
+- 🌱 I’m currently practicing SQL and python for data analysis and computation.
 
